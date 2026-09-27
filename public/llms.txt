@@ -1,0 +1,46 @@
+# 1kb.link
+
+> 1kb.link is an ultra-fast URL shortener, single-emoji link registry, and dynamic QR code platform with real-time analytics, password protection, and zero-cookie privacy compliance.
+
+1kb.link enables creators, marketers, businesses, and developers to create memorable short links, claim branded single-emoji URLs (e.g., 1kb.link/🚀) for $10 lifetime, and generate dynamic QR codes that can be re-routed at any time without reprinting physical materials.
+
+## Core Features & Capabilities
+
+- **Single Emoji Short Links**: Claim unique 1-character emoji URLs (1kb.link/🚀, 1kb.link/⚡, 1kb.link/💎). Each emoji points to 1 long destination URL. Special launch price of $10 lifetime (originally $25) with dynamic QR code, and geographic click tracking.
+- **Universal URL Shortener**: Instant link shortening with fast global edge redirection. No account required for instant links; free account unlocks advanced features.
+- **Advanced Link Controls (Free Signup)**:
+  - Custom branded slug endings (e.g., `1kb.link/summer-sale`)
+  - Password-protected links with passcode verification prompt
+  - Link expiration by date or click thresholds
+  - Internal organizational labels
+  - UTM Campaign Builder (`utm_source`, `utm_medium`, `utm_campaign`)
+- **Dynamic QR Codes**: Customizable vector (SVG) and raster (PNG) QR codes linked to short URLs. Destination URLs can be updated anytime after printing with zero broken codes. Features custom center logos, badge shapes, custom ink/paper themes, and up to 30% Reed-Solomon error correction.
+- **PDF Hosting & Short Links**: Upload menus, whitepapers, flyers, and brochures up to 25 MB. Automatically receives a permanent short link and printable QR code.
+- **In-Browser QR Scanner**: Fast, privacy-safe QR code reader that runs 100% locally in the browser camera without uploading frames, with continuous scan mode, sound chime, and CSV/TXT/JSON scan history export.
+- **Zero-Cookie Analytics**: Real-time tracking of visits, click timelines, referrers, geographic locations, and device types without third-party cookies or intrusive fingerprinting.
+
+## Key Pages & Documentation
+
+- [Link Shortener](https://1kb.link/): Shorten any long URL, generate dynamic QR codes, and access advanced custom ending, password, and UTM controls.
+- [Dynamic QR Code Generator](https://1kb.link/qr-generator): Generate editable QR codes with custom brand logos, colors, quiet zones, and downloadable PNG/SVG formats.
+- [QR Code Scanner](https://1kb.link/scan-qr): In-browser camera QR code reader with continuous mode, green laser animation, audio beep, and CSV/TXT/JSON export.
+- [Engineering & Marketing Blog](https://1kb.link/blog): In-depth guides on password-protected links, dynamic vs static QR codes, UTM campaign attribution, and cookie-free analytics.
+- [Single Emoji Links](https://1kb.link/emoji): Search, claim, and checkout single emoji URLs for $10 lifetime with multi-link cart support and feature billboard slots.
+- [PDF Hosting & QR Codes](https://1kb.link/pdf): Upload documents up to 25 MB and get permanent short addresses and printable QR codes.
+- [Privacy Policy](https://1kb.link/privacy): Zero-cookie architecture, no cross-site surveillance, and GDPR/CCPA data minimization policies.
+- [Terms of Service](https://1kb.link/terms): Acceptable use policies, uptime commitments, and account guidelines.
+- [Analytics & Link Dashboard](https://1kb.link/dashboard): Review all created links, click metrics, referrers, and destination redirects.
+
+## Pricing
+
+- **Standard Short Links & Dynamic QR Codes**: Free forever. No credit card required.
+- **Single Emoji Links**: $10.00 USD lifetime (Launch special, originally $25.00). Includes lifetime registration, dynamic QR code, zero renewal fees, and city-level analytics.
+- **Advanced Link Features**: Free with account registration (custom slugs, passcode locks, expiration dates, UTM tags, custom QR logos).
+
+## Technical Specifications
+
+- **Redirect Latency**: Under 25ms via global Cloudflare edge caching.
+- **HTTP Redirects**: Search-friendly 301/302 redirects preserving referrer headers.
+- **QR Code Standards**: ISO/IEC 18004 compliant QR codes with customizable foreground and background contrast and L/M/Q/H error correction.
+- **Browser Compatibility**: Fully supported across Chrome, Safari, Firefox, Edge, iOS Safari, Android Chrome, and modern in-app browsers.
+- **Privacy Standard**: 100% Cookie-free, no canvas fingerprinting, GDPR and CCPA compliant.

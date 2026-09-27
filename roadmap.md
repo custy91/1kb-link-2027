@@ -1,0 +1,3 @@
+- [x] Make every page a focused, informative 900px-wide experience with FAQs and an Emoji visual.
+- [x] Replace live data and sign-in requirements with a clearly labeled local UI demo, including six-digit email-code screens.
+- [x] Verify desktop and mobile pages, actions, and metadata.

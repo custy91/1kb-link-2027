@@ -1,0 +1,58 @@
+# 1kb.link - Comprehensive Product Documentation
+
+> 1kb.link is an ultra-fast URL shortener, single-emoji link registry, and dynamic QR code platform with real-time analytics, password protection, and PDF hosting.
+
+## Overview and Mission
+1kb.link solves the problem of clunky, unmemorable web addresses and static, unchangeable printed QR codes. By combining single-emoji web routing, dynamic edge redirection, passcode protection, and instant vector QR generation, 1kb.link gives creators, businesses, and restaurants maximum brand recall and flexibility.
+
+## Product Suite Breakdown
+
+### 1. Single Emoji Short Links (/emoji)
+- **Concept**: A web address consisting of a single emoji character path (e.g. `1kb.link/🚀` or `https://1kb.link/🥑`).
+- **Pricing**: $10.00 USD lifetime (discounted from $25.00).
+- **Cart & Multi-Purchase**: Users can browse emoji cards by category (Trending, Business, Tech, Marketing, Finance, Events, Creative, Lifestyle, Sports, Security), add multiple emoji links to a cart, configure destination URLs for each, and checkout in a single batch.
+- **Analytics Included**: Advanced tracking covering click counts, geographic location, device technology (mobile vs desktop), and QR scan counts.
+- **Billboard Slot**: Featured promotional slot for showcasing premium emoji links and campaign banners.
+
+### 2. Universal Link Shortener (/)
+- **Core Function**: Converts long, unwieldy URLs into clean, compact addresses.
+- **Global Speed**: Sub-25ms redirect speed on global edge network.
+- **Advanced Link Options (Available on Free Signup)**:
+  - **Custom Ending (Slug)**: Choose memorable back-halves such as `1kb.link/blackfriday` or `1kb.link/my-podcast`.
+  - **Password-Protected Links**: Restrict link access behind a passcode. The visitor is presented with a clean passcode prompt before the redirect is executed.
+  - **Link Expiration**: Automatically expire links after a set calendar date or maximum click threshold.
+  - **Internal Labels**: Assign custom titles to links for easy sorting and searching in the dashboard.
+  - **UTM Campaign Builder**: Automatically attach `utm_source`, `utm_medium`, and `utm_campaign` query parameters to target destinations.
+
+### 3. Dynamic QR Codes (/qr)
+- **Dynamic vs Static**: Unlike standard static QR codes where the destination is hardcoded into the matrix, 1kb.link QR codes point to a dynamic short link. This means the destination URL can be changed at any time in the future without reprinting menus, flyers, packaging, or business cards.
+- **Design Customization**: Real-time ink and paper color pickers with contrast preview.
+- **High-Resolution Exports**: Downloadable in raster PNG format for web and digital documents, or infinite-resolution vector SVG for print shops.
+
+### 4. PDF Short Links & Hosting (/pdf)
+- **File Support**: Upload any PDF document up to 25 MB (menus, price lists, event schedules, whitepapers).
+- **Instant Generation**: Creates an instant short link and printable QR code that directs smartphones directly to the PDF document.
+
+### 5. In-Browser QR Scanner (/scan)
+- **100% Client-Side Privacy**: Scans QR codes using the device camera directly inside the browser using standard WebRTC and Canvas APIs. No camera frames, images, or personal data are ever uploaded to any server.
+- **Safety Previews**: Displays the decoded URL or text before opening to prevent phishing and malicious redirects.
+
+## Frequently Asked Questions (FAQ)
+
+### What is a single emoji short link?
+A single emoji short link is a URL where the path is composed of exactly one emoji, such as 1kb.link/🚀. It redirects visitors to any destination URL of your choice. Single emoji links are priced at $10 lifetime (originally $25) and include dynamic QR codes and analytics.
+
+### How does a dynamic QR code work?
+A dynamic QR code encodes a short link rather than your long destination URL. When scanned, it routes through 1kb.link to your designated destination. Because the printed code always points to the same short link, you can update the final destination URL at any time without reprinting.
+
+### Are basic short links and dynamic QR codes free?
+Yes. Creating standard short links, generating customizable dynamic QR codes, and viewing basic analytics is 100% free with no account required.
+
+### What are the benefits of signing up for a free account?
+Signing up for a free 1kb.link account unlocks advanced link controls including custom back-halves (e.g. 1kb.link/my-brand), password protection, expiration dates, link labels, and the UTM campaign builder.
+
+### How does password protection work on short links?
+When password protection is enabled, any visitor clicking the short link is prompted to enter a secret passcode. Once the correct passcode is entered, the visitor is immediately redirected to the target destination.
+
+### Can I track link clicks and analytics?
+Yes. Every link created on 1kb.link includes real-time tracking of total visits, click trends over time, geographic country and city metrics, referrers, and device types.
